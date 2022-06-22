@@ -8,7 +8,8 @@ I used python, networkx, and pyviz to create this graph. The data comes from TV 
 
 So there are family, friends, rumored relationships, and confirmed relationships on the graph. The family is the bold color, friends are the pinkish red color, confirmed relationships/flings/hookups/marriages/etc are green, and rumors are yellow.
 
-<img width="668" alt="Screen Shot 2022-06-22 at 12 10 24 PM" src="https://user-images.githubusercontent.com/37605496/175097247-7507bdd7-6b46-445c-8b68-994c6f595949.png">
+<img width="410" alt="Screen Shot 2022-06-22 at 1 16 18 PM" src="https://user-images.githubusercontent.com/37605496/175109036-e26ee5a4-1a8e-4748-9562-0d402f3356d4.png">
+
 
 
 (updated Jun. 22, 2022)
