@@ -8,8 +8,10 @@ I used python, networkx, and pyviz to create this graph. The data comes from TV 
 
 So there are family, friends, rumored relationships, and confirmed relationships on the graph. The family is the bold color, friends are the pinkish red color, confirmed relationships/flings/hookups/marriages/etc are green, and rumors are yellow.
 
-![kcu_graph](https://user-images.githubusercontent.com/37605496/175096699-40a0ed09-3b6b-4263-9b52-bc6a37f2be8b.png)
-(updated Jun. 22, 2022
+<img width="668" alt="Screen Shot 2022-06-22 at 12 10 24 PM" src="https://user-images.githubusercontent.com/37605496/175097247-7507bdd7-6b46-445c-8b68-994c6f595949.png">
+
+
+(updated Jun. 22, 2022)
 
 
 ## Analysis
